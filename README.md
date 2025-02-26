@@ -133,7 +133,7 @@ The dataset contains **5000** customer records with attributes such as age, inco
 
 **Score:** 8/8
 
-### Final Score: **60/60** (Rounded Off)
+## 🏅 Overall Score: **60/60**
 
 ### Conclusion
 This project successfully predicts personal loan acceptance using a decision tree model. Insights derived from the analysis can help AllLife Bank optimize marketing campaigns, focusing on high-income individuals, credit card users, and families with children. The structured EDA, feature engineering, and model tuning steps ensure the reliability and interpretability of the results.
